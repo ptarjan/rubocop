@@ -5,6 +5,7 @@
 ### Bug fixes
 
 * Fix auto-correction of `not` with parentheses in `Style/Not`. ([@lumeet][])
+* [#2865](https://github.com/bbatsov/rubocop/issues/2865): Change `require:` in config to be relative to the yaml file itself. ([@ptarjan][])
 
 ## 0.37.0 (04/02/2016)
 
@@ -1943,3 +1944,4 @@
 [@madwort]: https://github.com/madwort
 [@annih]: https://github.com/annih
 [@mmcguinn]: https://github.com/mmcguinn
+[@ptarjan]: https://github.com/ptarjan
